@@ -1,6 +1,6 @@
-[kubernetes-master-nodes]
-kubernetes-master.learnitguide.net ansible_host=192.168.2.1
+[kuberneten-mas-mas-master-nodes]
+mohamedamr1c.mylabserver.com ansible_host=34.245.198.218
 
 [kubernetes-worker-nodes]
-kubernetes-worker1.learnitguide.net ansible_host=192.168.2.2
-kubernetes-worker2.learnitguide.net ansible_host=192.168.2.3
+mohamedamr2c.mylabserver.com ansible_host=63.32.107.113 
+mohamedamr3c.mylabserver.com ansible_host=34.244.103.100
